@@ -1,0 +1,17 @@
+F:\git\GenericGraphBasedScripter\bin\Debug\netcoreapp3.0\GenericGraphBasedScripter.exe
+F:\git\GenericGraphBasedScripter\bin\Debug\netcoreapp3.0\GenericGraphBasedScripter.deps.json
+F:\git\GenericGraphBasedScripter\bin\Debug\netcoreapp3.0\GenericGraphBasedScripter.runtimeconfig.json
+F:\git\GenericGraphBasedScripter\bin\Debug\netcoreapp3.0\GenericGraphBasedScripter.runtimeconfig.dev.json
+F:\git\GenericGraphBasedScripter\bin\Debug\netcoreapp3.0\GenericGraphBasedScripter.dll
+F:\git\GenericGraphBasedScripter\bin\Debug\netcoreapp3.0\GenericGraphBasedScripter.pdb
+F:\git\GenericGraphBasedScripter\obj\Debug\netcoreapp3.0\GenericGraphBasedScripter.csprojAssemblyReference.cache
+F:\git\GenericGraphBasedScripter\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+F:\git\GenericGraphBasedScripter\obj\Debug\netcoreapp3.0\App.g.cs
+F:\git\GenericGraphBasedScripter\obj\Debug\netcoreapp3.0\GenericGraphBasedScripter_MarkupCompile.cache
+F:\git\GenericGraphBasedScripter\obj\Debug\netcoreapp3.0\GenericGraphBasedScripter_MarkupCompile.lref
+F:\git\GenericGraphBasedScripter\obj\Debug\netcoreapp3.0\MainWindow.baml
+F:\git\GenericGraphBasedScripter\obj\Debug\netcoreapp3.0\GenericGraphBasedScripter.g.resources
+F:\git\GenericGraphBasedScripter\obj\Debug\netcoreapp3.0\GenericGraphBasedScripter.AssemblyInfoInputs.cache
+F:\git\GenericGraphBasedScripter\obj\Debug\netcoreapp3.0\GenericGraphBasedScripter.AssemblyInfo.cs
+F:\git\GenericGraphBasedScripter\obj\Debug\netcoreapp3.0\GenericGraphBasedScripter.dll
+F:\git\GenericGraphBasedScripter\obj\Debug\netcoreapp3.0\GenericGraphBasedScripter.pdb
